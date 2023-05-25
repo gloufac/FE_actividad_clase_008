@@ -3,6 +3,10 @@ body {
  padding: 10px;
 }
 
+h1{
+    text-align: center;
+}
+
 h1, h3{
     color: #005677;
     background-color: #C4C4C4;
