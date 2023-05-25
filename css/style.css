@@ -7,11 +7,12 @@ h1{
     text-align: center;
 }
 
-h1, h3{
+h1, h2, h3{
     color: #005677;
     background-color: #C4C4C4;
     padding-top: 10px;
     padding-bottom: 10px;
+    padding-left: 15px;
 }
 
 #banner {
